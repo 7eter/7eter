@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @7eter
 - 👀 I’m interested in how things work
-- 🌱 I’m currently learning cooking. 👩‍🍳
-- 💞️ I’m looking to collaborate on projects maybe - but I got no experience in GitHub yet.
 - 📫 How to reach me: peter.heliohost.org
 
 <!---
